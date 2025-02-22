@@ -1,4 +1,4 @@
-# 🚀 NLW Connect - Setup Inicial (Node.js)
+# 🚀 NLW Connect - (Node.js)
 
 ![Node.js Version](https://img.shields.io/badge/node-%3E%3D22.12.0-brightgreen)
 ![npm Version](https://img.shields.io/badge/npm-%3E%3D9.8.1-blue)
@@ -44,7 +44,7 @@ cp .env.example .env
 ├── redis/           # Configuração do redis
 ├── routes/          # Todas as rotas da API
 ├── env.ts           # Validação do .env com zod
-└──  server.ts       # Inicialização do servidor
+└── server.ts        # Inicialização do servidor
 
 ```
 
